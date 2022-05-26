@@ -10,3 +10,4 @@ author:kalaijkumar
 
 4.attachments (image , audio , video ) code 
 
+5. hiding the last seen 
